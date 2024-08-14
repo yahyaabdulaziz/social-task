@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889928303434",
+    "project_id": "social-task-d8fd4",
+    "storage_bucket": "social-task-d8fd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889928303434:android:68edd6fe6db97358dbb7b3",
+        "android_client_info": {
+          "package_name": "com.task.social_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOozAkf5yl3B_0wKomnYYjA_aRLJfxcqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
